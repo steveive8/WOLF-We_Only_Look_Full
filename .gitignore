@@ -1,3 +1,5 @@
+cifar10/
+voc/
 # Logs
 logs
 *.log
